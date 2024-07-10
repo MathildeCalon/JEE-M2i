@@ -8,8 +8,16 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
+<ul>
+    <li>
 <a href="brut">Brut</a>
+    </li>
+    <li>
 <a href="html">Html</a>
+    </li>
+    <li>
 <a href="jsp">JSP</a>
+    </li>
+</ul>
 </body>
 </html>
