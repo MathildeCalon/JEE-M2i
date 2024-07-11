@@ -24,6 +24,9 @@
     <li>
         <a href="servlet3">Servlet 3</a>
     </li>
+    <li>
+        <a href="servletVariables">Servlet variables</a>
+    </li>
 </ul>
 </body>
 </html>
