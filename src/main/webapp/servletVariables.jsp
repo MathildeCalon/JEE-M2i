@@ -21,9 +21,9 @@
         <tbody>
         <% for (Person p: people) { %>
         <tr>
-            <td>            <%= p.getFirstname() %></td>
-            <td>            <%= p.getLastname() %></td>
-            <td>            <%= p.getAge() %> ans</td>
+            <td> <%= p.getFirstname() %></td>
+            <td> <%= p.getLastname() %></td>
+            <td> <%= p.getAge() %> ans</td>
         </tr>
         <% } %>
         </tbody>
