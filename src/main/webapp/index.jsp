@@ -18,6 +18,12 @@
     <li>
 <a href="jsp">JSP</a>
     </li>
+    <li>
+        <a href="servlet2">Servlet 2</a>
+    </li>
+    <li>
+        <a href="servlet3">Servlet 3</a>
+    </li>
 </ul>
 </body>
 </html>
