@@ -9,7 +9,7 @@
 <html>
 <head>
     <title>Servlet2</title>
-    <%@ include file="/pages/boostrap.html" %>
+    <%@ include file="/WEB-INF/boostrap.html" %>
 </head>
 <body>
 <h1 class="display-1">Boostrap</h1>
